@@ -9,3 +9,5 @@ build/
 develop-eggs/
 *.egg-info/
 *.egg
+images/
+*images
