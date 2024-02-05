@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
+*.pyc
+*.pyo
+__pycache__/
+src/*.egg-info
+build/
+develop-eggs/
+*.egg-info/
+*.egg
