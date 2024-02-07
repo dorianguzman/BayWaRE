@@ -4,8 +4,8 @@
 *.pyc
 *.pyo
 __pycache__/
-source/__pycache__
-*__pycache__
+source/__pycache__/
+*__pycache__/
 src/*.egg-info
 build/
 develop-eggs/
